@@ -13,7 +13,8 @@ Gabriella Cerrato
 This assignment cultivates the student's jQuery education by means of the fadeIn method. 
 
 ### View Project Online:
-https://gzc16.github.io/lesson7_jquery/
+(Replace this statement with your Github Page URL that was created when you 
+ published the project.)
 
 ### Lessons Learned in the Assignment:
 1. Use of "$" indicated jQuery. 
